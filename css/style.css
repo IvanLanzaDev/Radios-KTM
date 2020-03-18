@@ -1,0 +1,2 @@
+.custom-field{background:  transparent; outline: 0; border: transparent; border-bottom: 2px #FFF solid;  border-top: 2px transparent solid; border-left: 2px transparent solid; border-right: 2px transparent solid; border-radius: 0px; color: rgb(170, 170, 170); transition: all 0.4s ease;}
+.custom-field:focus{background: transparent; outline: 0; border: 2px #FFF solid; color: #FFF;}
